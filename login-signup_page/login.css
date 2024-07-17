@@ -1,3 +1,11 @@
+body{
+    font-family: Arial, sans-serif;
+    background: #161513;
+  color: white;
+  font-family: Arial, sans-serif;
+  height: 100vh;
+}
+
 .navbar{
     display: flex;
     justify-content: space-between;
@@ -47,6 +55,9 @@
         width: 600px;
         background: #fff;
         overflow-x: hidden;
+        background: #23201a;
+        border: 0 solid;
+        border-radius: 20px;
     }
     
     .header {
